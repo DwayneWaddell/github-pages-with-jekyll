@@ -1,1 +1,1 @@
-first blosg post
+first blog post for my site
