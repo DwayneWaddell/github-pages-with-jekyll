@@ -1,4 +1,4 @@
 ---
 layout: post
-title: First blog post for my site
+title: Dwayne Waddell Blog site
 ---
